@@ -1,0 +1,21 @@
+{
+    "name": "laxismarket",
+    "version": "1.0.0",
+    "description": "Laxis Market - Le super marché numérique des produits electroniques, medicales, cosmetiques ...",
+    "author": "Aaron Dizele",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    },
+    "dependencies": {
+        "@nuxtjs/axios": "^5.3.6",
+        "@nuxtjs/pwa": "^3.0.0-0",
+        "global": "^4.4.0",
+        "now": "^16.1.2",
+        "nuxt": "^2.0.0"
+    },
+    "devDependencies": {}
+}
